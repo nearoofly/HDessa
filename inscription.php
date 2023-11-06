@@ -1,7 +1,7 @@
 <?php
 // Connexion à votre base de données (vous devrez configurer la connexion à votre base de données)
 $host = "localhost";
-$dbname = "https://wharkly47.github.io/";
+$dbname = "wharkly47.github.io";
 $username = "Wharkly47";
 $password = "Wharkly47";
 
